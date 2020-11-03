@@ -1,0 +1,29 @@
+Singleton
+    -> Crea una sola instancia para todos los usuarios
+
+Factory
+    -> Devuelve una instancia segun las necesidades del usuario (factory -> interface -> interface Implementaciones)
+
+Factory Abstract
+    -> Permite manejar varias Factories
+
+Prototype
+    -> Crea una nueva instancia con los valores clonados de otra instancia
+
+Facade
+    -> Oculta o simplifica la complejidad de la aplicacion, son como un intermediario entre el cliente el el sistema
+
+Decorator
+    -> Agrega Funcionalidad a un objeto existente sin alterar su estructura
+
+Proxy
+    -> Permite tener un emboltorio que permita tener acceso al objeto real o final
+
+Command
+    -> Encapsula la petición de alguna operación bajo algún método
+
+Memento
+    -> Guarda el estado de lo que se esta pasando en la aplicación
+
+Observer
+    -> Se compone de tres clases el sujeto a observación, el observador y el cliente
